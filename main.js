@@ -7,7 +7,7 @@ Webcam.set({
 });
 
 // Attaching the webcam to the web page
-Wbecam.attach("#camera");
+Webcam.attach("#camera");
 
 // Function take_snapshot() (to take a snap of the user's hand gesture)
 function take_snapshot() {
